@@ -1,2 +1,4 @@
-# Price your Collectibe Doll
-A web-based app for suggesting the price of collectible dolls from pictures.
+# Price your Doll!
+An app that suggests the dollar value of collectible dolls from user-uploaded pictures.
+
+dollsapp.onrender.com
